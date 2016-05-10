@@ -1,8 +1,17 @@
 'use strict';
 
 module.exports = {
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "globals": {
+        "window": true
+    },
     "extends": [
-        "jsfile"
+        "strict",
+        "strict/es6",
+        "strict/mocha"
     ],
     "rules": {
         // JUSTIFICATION: code cleanliness
