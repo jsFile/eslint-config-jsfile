@@ -61,6 +61,12 @@ module.exports = {
         "no-warning-comments": [
             "off"
         ],
+        "complexity": [
+            "error",
+            {
+                "max": 15
+            }
+        ],
         "indent": [
             "error",
             4,
