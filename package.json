@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-jsfile",
+  "version": "0.1.0",
+  "description": "ESLint shareable config for the JsFile style guid",
+  "license": "MIT",
+  "repository": "https://github.com/jsFile/eslint-config-jsfile.git",
+  "author": "webshcik",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "eslint",
+    "jsfile",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "hint"
+  ]
+}
