@@ -20,9 +20,6 @@ Add some ESLint config to your `.eslintrc`:
 }
 ```
 
-Then lint with `$ npm run lint`.
-
-
 ## License
 
 MIT
