@@ -6,8 +6,9 @@
   "repository": "https://github.com/jsFile/eslint-config-jsfile.git",
   "author": "webschik",
   "files": [
-    "index.js"
+    "*.js"
   ],
+  "main": "index.js",
   "keywords": [
     "eslint",
     "jsfile",
