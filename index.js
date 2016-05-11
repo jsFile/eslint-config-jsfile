@@ -58,7 +58,16 @@ module.exports = {
         "prefer-reflect": [
             "off"
         ],
+        "prefer-spread": [
+            "off"
+        ],
+        "no-shadow": [
+            "off"
+        ],
         "no-warning-comments": [
+            "off"
+        ],
+        "init-declarations": [
             "off"
         ],
         "complexity": [

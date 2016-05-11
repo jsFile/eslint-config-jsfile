@@ -4,7 +4,7 @@ ESLint shareable config for the JsFile style guide
 ## Install
 
 ```
-$ npm install --save-dev eslint eslint-config-jsfile
+$ npm install --save-dev eslint eslint-config-strict eslint-plugin-filenames eslint-config-jsfile
 ```
 
 
